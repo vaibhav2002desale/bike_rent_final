@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Honda Activa 6G",
+        "price":"₹ 700/day" ,
+        "type":" scooters",
+        "description":" is powered by 109.51 cc engine.This Activa 6G engine generates a power of 7.84 PS @ 8000 rpm and a torque of 8.90 Nm @ 5500 rpm.",
+        "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/44686/activa-6g-right-side-view-2.png?isig=0&q=80",
+        "R":"Rating",
+        "rating": "4.9"
+        
+    },
+    {
+        "id":2,
+        "name":"Suzuki Access 125",
+        "price":"₹ 1000/day" ,
+        "type":" scooters",
+        "description":"The Suzuki Access 125 is powered by a 124 cc air-cooled engine which produces 8.7 PS @ 6750 rpm of power.",
+        "img":"https://imgd.aeplcdn.com/664x374/n/bw/models/colors/suzuki-select-model-metallic-mattee-black-std-1679635807338.png?q=80",
+        "R":"Rating",
+        "rating":"5"
+    },
+    {
+        "id":3,
+        "name":"TVS Jupiter 125",
+        "price": "₹ 900/day",
+        "type":" scooters",
+        "description":"The TVS Jupiter 125 is powered by a 124.8 cc air-cooled engine which produces 8.15 PS @ 6500 rpm of power",
+        "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/103181/jupiter-125-right-side-view-9.jpeg?isig=0&q=80",
+        "R":"Rating",
+        "rating":"3.6"
+    }
+]

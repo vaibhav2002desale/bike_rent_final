@@ -1,38 +1,317 @@
-.App {
-  text-align: center;
-}
+.back{
+  position: relative;
+  height: 500px;
+  margin-top: -5px;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.text{
+  position: absolute;
+  margin-left: 55%;
+  margin-top: -390px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.text:hover{
+  counter-reset: none;
+  color: cyan;
+ 
+}
+.on{
+  position: absolute;
+  margin-left: -35%;
+  height: 25px;
+  width: 25%;
+  margin-top: -90px;
   color: white;
 }
+.on:hover{
+  counter-reset: none;
+  color: darkorange;
+ 
+}
+.p{
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 35%;
+  color: white;
+}
+.p:hover{
+  counter-reset: none;
+  color: darkcyan;
 
-.App-link {
-  color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.img{
+  position: absolute;
+  margin-top: -400px;
+  margin-left: 20px;
+  padding: 15px;
 }
+.card1{
+  margin-top: 10px;
+  margin-left: 7%;
+}
+.card1:hover{
+  container: 30px;
+  color: lightslategray;
+}
+
+.card2{
+  margin-top: -275px;
+  margin-left: 32%;
+}
+.card2:hover{
+  container: 30px;
+  color: lightslategray;
+}
+
+.card3{
+  margin-top: -275px;
+  margin-left: 54%;
+}
+.card3:hover{
+  container: 30px;
+  color: lightslategray;
+}
+
+
+.card4{
+  margin-top: -275px;
+  margin-left: 75%;
+}
+.card4:hover{
+  container: 30px;
+  color: lightslategray;
+}
+
+.back1{
+  position: relative;
+  background-color: lightcoral;
+  height: 500px;
+  margin-top: 15px;
+  
+
+}
+.text1{
+  position: absolute;
+  margin-left: 75%;
+  margin-top: -390px;
+  color: white;
+}
+.text1:hover{
+  counter-reset: none;
+  color: darkgoldenrod;
+ 
+}
+.p1{
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 35%;
+  color: white;
+}
+.p1:hover{
+  counter-reset: none;
+  color: gold;
+
+}
+.img1{
+  position: absolute;
+  margin-top: -360px;
+  margin-left: 20px;
+  padding: 15px;
+}
+.ci1{
+  margin-top: -420px;
+  margin-left: 115%;
+
+}
+
+
+
+.hs1{
+  color: white;
+  margin-left: 120%;
+}
+.hs1:hover{
+  counter-reset: none;
+  color: black;
+
+}
+.name1{
+  
+  color: white;
+  margin-left: 145%;
+  margin-top: -55px;
+}
+.name1:hover{
+  counter-reset: none;
+  color: black;
+}
+.ci2{
+  margin-top: -30px;
+  margin-left: 220%;
+}
+.hs2{
+  color: white;
+  margin-left: 225%;
+}
+.hs2:hover{
+  counter-reset: none;
+  color: black;
+
+}
+.name2{
+  color: white;
+  margin-left: 255%;
+  margin-top: -55px;
+}
+.name2:hover{
+  counter-reset: none;
+  color: black;
+}
+.card5{
+  margin-top: 10px;
+  margin-left: 7%;
+}
+.card5:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card6{
+  margin-top: -275px;
+  margin-left: 32%;
+}
+.card6:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card7{
+  margin-top: -275px;
+  margin-left: 54%;
+}
+.card7:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card8{
+  margin-top: -275px;
+  margin-left: 75%;
+}
+.card8:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card9{
+  margin-top: 12px;
+  margin-left: 7%;
+}
+.card9:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card10{
+  margin-top: -275px;
+  margin-left: 32%;
+}
+.card10:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card11{
+  margin-top: -275px;
+  margin-left: 54%;
+}
+.card11:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card12{
+  margin-top: -275px;
+  margin-left: 75%;
+}
+.card12:hover{
+  container: 30px;
+  color: lightslategray;
+}
+
+.back2{
+  position: relative;
+  background-color: darkslategrey;
+  height: 500px;
+  margin-top: 15px;
+}
+.text2{
+  position: absolute;
+  width: 30%;
+  margin-left: 35px;
+  margin-top: -390px;
+  color: white;
+}
+.text2:hover{
+  counter-reset: none;
+  color: black;
+ 
+}
+.p2{
+  text-align: justify;
+  
+  margin-left: 10px;
+  margin-right: 35%;
+  color: white;
+}
+.p2:hover{
+  counter-reset: none;
+  color: cyan;
+}
+.img2{
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 60%;
+
+}
+.text3{
+  position: absolute;
+  width: 30%;
+  margin-left: 33%;
+  margin-top: -320px;
+  color: white;
+}
+.text3:hover{
+  counter-reset: none;
+  color: darkturquoise;
+ 
+}
+.card13{
+  margin-top: 12px;
+  margin-left: 7%;
+}
+.card13:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card14{
+  margin-top: -275px;
+  margin-left: 32%;
+}
+.card14:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card15{
+  margin-top: -275px;
+  margin-left: 54%;
+}
+.card15:hover{
+  container: 30px;
+  color: lightslategray;
+}
+.card16{
+  margin-top: -275px;
+  margin-left: 75%;
+}
+.card16:hover{
+  container: 30px;
+  color: lightslategray;
+}
+
+
+
+

@@ -1,0 +1,14 @@
+.ne{
+  margin-top: -60px;
+  margin-left: 900px;
+  padding: 10px;
+}
+
+.ne button{
+  width: 100px;
+  margin-left: 10px;
+}
+.ne input{
+  width: 200px;border-radius: 10px;
+  height: 50px;
+}

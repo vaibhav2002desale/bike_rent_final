@@ -1,0 +1,52 @@
+.from{
+    background-color: beige;
+    height: 500px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: 100px;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+.body{
+    background-color: blanchedalmond;
+}
+
+.name{
+    height: 30px;
+    width: 360px;
+    margin-bottom: 25px;
+    text-decoration: underline;
+    size: 35px;
+    color: black;
+}
+
+.phone{
+    height: 30px;
+    width: 360px;
+    margin-bottom: 25px;
+    text-decoration: underline;
+    size: 35px;
+    color: black;
+}
+
+.email{
+    height: 30px;
+    width: 360px;
+    margin-bottom: 25px;
+    text-decoration: underline;
+    size: 35px;
+    color: black;
+}
+
+.submit{
+    margin-left: 100px;
+    height: 40px;
+    width: 150px;
+    size: 50px;
+    color: white;
+}
+
+.submit:hover{
+    counter-reset: none;
+  color: black;
+}

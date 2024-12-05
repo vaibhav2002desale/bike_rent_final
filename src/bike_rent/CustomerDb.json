@@ -1,0 +1,87 @@
+[
+    {
+        "id":1,
+        "CustomerName":"Alexander",
+        "Review":"The process was hassle-free with minimal formalities, and the booking service was seamless. Overall, it was a great experience dealing with them.",
+        "img":"https://t3.ftcdn.net/jpg/07/52/02/16/240_F_752021648_dRjaPygdjrfaNeMCdSFq9YVhJuknKe2t.jpg",
+        "R":"Rating",
+        "rating": "4"
+        
+    },
+    {
+        "id":2,
+        "CustomerName":"Rhea",
+        "Review":" We Go Bike Pvt Ltd provides quick delivery with minimum formalities. However, their customer service needs improvement. Overall, a good experience.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNm5GtdCZ2zDLCEARuC5CcMCf3RwhI-1iLMSUcnA1gEc6FoSKVM8HI0a2Ntwf3P02YKc&usqp=CAU",
+        "R":"Rating",
+        "rating": "2"
+      
+    },
+    {
+        "id":3,
+        "CustomerName":"Jack",
+        "Review":"! Minimum formalities and quick delivery make renting a bike hassle-free. Highly recommended !",
+        "img":"https://t4.ftcdn.net/jpg/01/04/65/45/240_F_104654521_2sgk343uDOCQhESWoXrcYgiWcXWQPfiH.jpg",
+        "R":"Rating",
+        "rating": "5"
+    },
+
+    {
+        "id":4,
+        "CustomerName":"Olivia",
+        "Review":"Got to know about them from a friend.hired a thunderbird 350 for a solo trip to sikkim.the bike was efficient.",
+        "img":"https://t4.ftcdn.net/jpg/09/95/26/55/240_F_995265569_odytYv18Kds1m0YIDFtRXLYEdgJ3gUDw.jpg",
+        "R":"Rating",
+        "rating": "3"
+    },
+
+    {
+        "id":5,
+        "CustomerName":"Emma",
+        "Review":"The company did not even give me enough petrol to go till the second most nearby petrol pump to fill in petrol and i had to drag the scooty im the middle of a jam pac",
+        "img":"https://t4.ftcdn.net/jpg/10/95/57/59/240_F_1095575905_jpX5Z3Xl5eVDvrg1SeeBNlPs6SLTZF8c.jpg",
+        "R":"Rating",
+        "rating": "2"
+    },
+
+    {
+        "id":6,
+        "CustomerName":"Amelia",
+        "Review":"Great experience ! Good easy hassle free renting Talk about a range of elements",
+        "img":"https://as1.ftcdn.net/v2/jpg/02/96/74/04/1000_F_296740467_PxbXhGl4kyPmChvOzgydHJBC6rTzHhCW.jpg",
+        "R":"Rating",
+        "rating": "4"
+    },
+
+    {
+        "id":7,
+        "CustomerName":"James",
+        "Review":"Good easy hassle free renting Talk about a range of elements, including customer service. ",
+        "img":"https://media.istockphoto.com/id/1464681993/photo/man-riding-motorcycle-with-helmet.jpg?s=2048x2048&w=is&k=20&c=cmsztn-wTCwkYEhADPLqfzmNb548KQ81hCq1THYy7ws=",
+        "R":"Rating",
+        "rating": "5"
+    },
+
+    {
+        "id":8,
+        "CustomerName":"Matthew",
+        "Review":"Feel free to update your review if needed.",
+        "img":"https://images.pexels.com/photos/242829/pexels-photo-242829.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "R":"Rating",
+        "rating": "3"
+    },
+
+    {
+        "id":9,
+        "CustomerName":"Edward",
+        "Review":"Good condition bike as compared to other vendors , rented thunderbird 500 for Goa trip.",
+        "img":"https://images.pexels.com/photos/1915149/pexels-photo-1915149.jpeg?cs=srgb&dl=pexels-andiravsanjani-1915149.jpg&fm=jpg",
+        "R":"Rating",
+        "rating": "4"
+    }
+
+    
+
+
+    
+]   
