@@ -1,0 +1,181 @@
+[
+  {
+      "id":1,
+      "name":"Honda Activa 6G",
+      "price":"₹ 700/day" ,
+      "type":"scooters",
+      "description":" is powered by 109.51 cc engine.This Activa 6G engine generates a power of 7.84 PS @ 8000 rpm and a torque of 8.90 Nm @ 5500 rpm.",
+      "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/44686/activa-6g-right-side-view-2.png?isig=0&q=80",
+      "R":"Rating",
+      "rating": "4.9"
+      
+  },
+  {
+      "id":2,
+      "name":"Suzuki Access 125",
+      "price":"₹ 1000/day" ,
+      "type":"scooters",
+      "description":"The Suzuki Access 125 is powered by a 124 cc air-cooled engine which produces 8.7 PS @ 6750 rpm of power.",
+      "img":"https://imgd.aeplcdn.com/664x374/n/bw/models/colors/suzuki-select-model-metallic-mattee-black-std-1679635807338.png?q=80",
+      "R":"Rating",
+      "rating":"5"
+  },
+  {
+      "id":3,
+      "name":"TVS Jupiter 125",
+      "price": "₹ 900/day",
+      "type":"scooters",
+      "description":"The TVS Jupiter 125 is powered by a 124.8 cc air-cooled engine which produces 8.15 PS @ 6500 rpm of power",
+      "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/103181/jupiter-125-right-side-view-9.jpeg?isig=0&q=80",
+      "R":"Rating",
+      "rating":"3.6"
+  },
+  
+    {
+        "id":4,
+        "name":"Honda Activa 6G",
+        "price":"₹ 700/day" ,
+        "type":"scooters",
+        "description":" is powered by 109.51 cc engine.This Activa 6G engine generates a power of 7.84 PS @ 8000 rpm and a torque of 8.90 Nm @ 5500 rpm.",
+        "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/44686/activa-6g-right-side-view-2.png?isig=0&q=80",
+        "R":"Rating",
+        "rating": "4.9"
+        
+    },
+    {
+        "id":5,
+        "name":"Suzuki Access 125",
+        "price":"₹ 1000/day" ,
+        "type":"scooters",
+        "description":"The Suzuki Access 125 is powered by a 124 cc air-cooled engine which produces 8.7 PS @ 6750 rpm of power.",
+        "img":"https://imgd.aeplcdn.com/664x374/n/bw/models/colors/suzuki-select-model-metallic-mattee-black-std-1679635807338.png?q=80",
+        "R":"Rating",
+        "rating":"5"
+    },
+    {
+        "id":6,
+        "name":"TVS Jupiter 125",
+        "price": "₹ 900/day",
+        "type":"scooters",
+        "description":"The TVS Jupiter 125 is powered by a 124.8 cc air-cooled engine which produces 8.15 PS @ 6500 rpm of power",
+        "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/103181/jupiter-125-right-side-view-9.jpeg?isig=0&q=80",
+        "R":"Rating",
+        "rating":"3.6"
+    },
+    
+      {
+          "id":7,
+          "name":"Honda Activa 6G",
+          "price":"₹ 700/day" ,
+          "type":"scooters",
+          "description":" is powered by 109.51 cc engine.This Activa 6G engine generates a power of 7.84 PS @ 8000 rpm and a torque of 8.90 Nm @ 5500 rpm.",
+          "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/44686/activa-6g-right-side-view-2.png?isig=0&q=80",
+          "R":"Rating",
+          "rating": "4.9"
+          
+      },
+     
+     
+      {
+          "id":8,
+          "name":"Honda Shine",
+          "price": "₹ 600/day",
+          "type":"Bike",
+          "description":"Since its debut in 2006, the Honda Shine has evolved to be one of the best-selling 125cc bikes in India",
+          "img":"https://imgd.aeplcdn.com/664x374/n/bw/models/colors/honda-select-model-decent-blue-metallic-2023-1687260642123.png?q=80",
+          "R":"Rating",
+          "rating":"4.9"
+      },
+     
+      
+      {
+          "id":9,
+          "name":"BMW M 1000 RR",
+          "price":"₹ 2500/day" ,
+          "type":"Sport Bike",
+          "description":"BMW Motorrad has launched the much-awaited M 1000 RR in India in two variants India in two variants ",
+          "img":"https://imgd.aeplcdn.com/664x374/n/cw/ec/151729/m-1000-rr-right-side-view.png?isig=0&q=80",
+          "R":"Rating",
+          "rating":"5"
+      },
+  
+      {
+          "id":10,
+          "name":"OLA S1 X",
+          "price":"₹ 600/day" ,
+          "type":"Electric Bike",
+          "description":"It has a 5kW electric motor and the company claims it can sprint from 0-40kmph in 2.6 seconds ",
+          "img":"https://imgd.aeplcdn.com/272x153/n/cw/ec/154921/s1-x-right-front-three-quarter-2.png?isig=0&q=80",
+          "R":"Rating",
+          "rating":"1"
+  
+      },
+  
+      {
+          "id":11,
+          "name":"Revolt RV400",
+          "price":"₹ 600/day" ,
+          "type":"Electric Bike",
+          "description":"The Revolt RV400is powered by 3 kW watt Mid DriveMotor. The Revolt RV400takes 4.5 Hrto get fully charged its 3.24 Kwhbattery",
+          "img":"https://imgd.aeplcdn.com/272x153/n/cw/ec/40710/rv-400-right-side-view-12.png?isig=0&q=80",
+          "R":"Rating",
+          "rating":"3"
+  
+      },
+  
+      {
+          "id":12,
+          "name":"Doodle V2",
+          "price":"₹ 1000/day" ,
+          "type":"E-Cycle",
+          "description":"A foldable fat-tyred e-cycle with an incredibly long-lasting battery support. From your room, to roads and railways, you can take this beast anywhere.",
+          "img":"https://ar-euro.s3.ap-south-1.amazonaws.com/ind-website-2.0/original/cards-and-cartimages/doodle.png",
+          "R":"Rating",
+          "rating":"5"
+  
+      },
+
+      {
+        "id":13,
+        "name":"Kawasaki Ninja ZX-6R",
+        "price":"₹ 1000/day" ,
+        "type":"Sport Bike",
+        "description":"Ninja ZX-6R Standard starts at Rs. 11,20,000. The mentioned Ninja ZX-6R price is the average ex-showroom.",
+        "img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/167523/ninja-zx-6r-right-side-view.png?isig=0&q=80",
+        "R":"Rating",
+        "rating":"3"
+
+    },
+
+
+    {
+        "id":14,
+        "name":"Royal Enfield Hunter 350",
+        "price":"₹ 1000/day" ,
+        "type":"street roadster",
+        "description":"Hunter 350 Retro Factory starts at Rs. 1,49,900. The price for the other variants ",
+        "img":"https://imgd.aeplcdn.com/1056x594/n/tbksseb_1777333.jpg?q=80",
+        "R":"Rating",
+        "rating":"5"
+
+    },
+
+
+    {
+        "id":15,
+        "name":"Harley-Davidson X440",
+        "price":"₹ 1000/day" ,
+        "type":"street roadster",
+        "description":"This X440 bike weighs 190.5 kg and has a fuel tank capacity of 13.5 liters.",
+        "img":"https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/harleydavidson-select-model-metallic-thick-red-1688451884238.png?q=80",
+        "R":"Rating",
+        "rating":"5"
+
+    }
+  
+  
+  
+  
+  
+
+]
